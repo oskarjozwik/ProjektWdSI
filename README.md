@@ -1,6 +1,7 @@
 # ProjektWdSI
 Model oceniający jadalność grzybów na podstawie ich cech
-
+Oskar Jóźwik 159456
+Zuzanna Wnęk 159417
 ## 1. Opis rzeczywistego problemu
 
 Wybrano problem oceny jadalności grzybów na podstawie jego cech. Na podstawie następujących cech:
